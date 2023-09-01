@@ -1,0 +1,50 @@
+.first-section{
+    background-color: antiquewhite;
+}
+.first-header{
+    display: flex;
+    padding: 40px;
+}
+.heading-area{
+    padding-top: 200px;
+}
+.image-area{
+    padding-left: 100px;
+}
+/* second section */
+.second-section{
+    text-align: center;
+}
+.second-image-area {
+    display: flex;
+    padding-left: 100px;
+
+}
+.second-image-area div{
+    padding: 20px;
+    align-items: center;
+
+}
+/* third area */
+.third-section{
+    display: flex;
+    margin: 30px;
+    padding: 100px;
+}
+.third-header-area{
+    padding-right: 50px;
+    padding-top: 100px;
+}
+/* fourth section */
+.fourth-section{
+    background-image: url(images/Rectangle\ 9.png);
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height: 300px;
+}
